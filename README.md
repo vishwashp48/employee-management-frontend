@@ -35,34 +35,34 @@ Managing workforce data manually introduces operational bottlenecks. This projec
 
 ### 1. Secure Authentication Gateway
 A unified landing login panel offering user entry simulation alongside pre-configured roles for evaluation.
-![Login Panel](screenshots/01_login_panel.png)
+![Login Panel](screenshots/01_login_panel)
 
 ### 2. Administrative Central Dashboard
 An analytics dashboard giving operational visibility over company distribution, department counts, and system alerts.
-![Main Dashboard](screenshots/02_main_dashboard.png)
+![Main Dashboard](screenshots/02_main_dashboard)
 
 ### 3. Employee Directory & Profile Inserts
 Robust search directories and comprehensive user profile sheets displaying corporate financial information and personal metrics.
-![Employee Directory](screenshots/03_employee_directory.png)
-![View Profile Details](screenshots/04_profile_details.png)
-![Add New Employee Form](screenshots/09_add_employee.png)
+![Employee Directory](screenshots/03_employee_directory)
+![View Profile Details](screenshots/04_profile_details)
+![Add New Employee Form](screenshots/09_add_employee)
 
 ### 4. Interactive Attendance Ledger
 Live check-in layout models tracking structural presence times, active sick leaves, and shift completions.
-![Attendance Management Tab](screenshots/05_attendance_tab.png)
+![Attendance Management Tab](screenshots/05_attendance_tab)
 
 ### 5. Payroll Management & Itemized Payslips
 Payroll views displaying monthly earnings, applying appropriate tax adjustments, and generating professional PDF vouchers.
-![Payroll Records](screenshots/06_payroll_records.png)
-![Itemized Payslip Ledger](screenshots/07_payslip_ledger.png)
+![Payroll Records](screenshots/06_payroll_records)
+![Itemized Payslip Ledger](screenshots/07_payslip_ledger)
 
 ### 6. Leave Management Pipelines
 A real-time tracking interface detailing employee vacation durations, reasons, and direct action triggers.
-![Leave Management Panel](screenshots/08_leave_management.png)
+![Leave Management Panel](screenshots/08_leave_management)
 
 ### 7. Reports & Export Engine UI
 A modular reporting center built to present attendance, payroll, and performance metrics in clean, professional layouts optimized for CSV and PDF exporting.
-![Reports and Analytics Section](screenshots/10_reports_analytics.png)
+![Reports and Analytics Section](screenshots/10_reports_analytics)
 
 ---
 
